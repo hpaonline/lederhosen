@@ -1,4 +1,20 @@
-## Welcome to GitHub Pages
+---
+layout: default
+locale: en
+author: gavin.scurr
+ms.author: gavinsc
+---
+
+[MSFT]: _images/Microsoft-logo_rgb_c-gray.png
+
+
+
+
+# Welcome to GitHub Pages
+
+
+
+![][MSFT]
 
 You can use the [editor on GitHub](https://github.com/hpaonline/lederhosen/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -34,4 +50,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we'll help you sort it out.

@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"markdown.replaceSmartQuotes": true,
+		"markdown.showToolbar": true
+	}
+}
