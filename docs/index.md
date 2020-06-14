@@ -9,4 +9,3 @@ ms.author: gavinsc
 
 ![][LL]
 
-<iframe src="https://player.vimeo.com/video/387515173?title=0&byline=0&portrait=0" style="width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><script src="https://player.vimeo.com/api/player.js"></script>
