@@ -2,7 +2,7 @@ repository: hpaonline/lederhosen
 theme: jekyll-theme-cayman
 # name: Hollywood Processional Association
 title: The Lost Lederhosen
-timezone: America/Los_Angeles
+#timezone: America/Los_Angeles
 plugins:
     # - jekyll-seo-tag
-    - "jekyll-github-metadata"
+    #- "jekyll-github-metadata"
